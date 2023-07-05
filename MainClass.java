@@ -4,13 +4,8 @@ import javax.swing.*;
 /**
  * Program Name : MainClass.java
  * Purpose: Put a Description here!
- * @author: Hongseok Kim
+ * @author: Hongseok Kim, Alejandro Ramirez, Huigon Shin, Juyeong Kim
  * Date : 2022. 7. 28.
- */
-
-/**
- * @author Hongseok Kim
- *
  */
 public class MainClass
 {
